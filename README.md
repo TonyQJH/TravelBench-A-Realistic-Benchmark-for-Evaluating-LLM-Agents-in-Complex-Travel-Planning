@@ -25,7 +25,6 @@ This repository contains the official dataset, evaluation code, and baseline age
 ### 1. Prerequisites
 
 - Python 3.9+
-- Docker (optional, for API)
 
 ### 2. Setup Data
 
