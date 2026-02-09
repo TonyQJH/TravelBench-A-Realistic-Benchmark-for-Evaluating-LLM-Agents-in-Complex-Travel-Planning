@@ -1,0 +1,15 @@
+{
+    "with children": ["family restrooms", "Nursing facilities"],
+    "road trip": ["parking"],
+    "elderly travelers": ["wheelchair rental", "benches/rest areas"],
+    "business travelers": ["High speed WiFi"],
+    "with pets": ["Pet-friendly", "pet water stations", "Pet rest area"],
+    "nightlife enthusiast": ["night markets", "bars", "evening shows"],
+    "disabled traveler": ["ramps", "elevators", "wheelchair rentals", "accessible restrooms"],
+    "fast-paced budget travel": ["city passes", "luggage storage", "self-guided tours"],
+    "couples trip": ["scenic spots", "sunset cruises", "special couples experiences"],
+    "solo women": ["group tours", "security"],
+    "luxury travelers": ["private tours", "skip the line passes", "VIP exclusive events"],
+    "foodie": ["Food markets", "tasting tours"],
+    "photography": ["photo spots", "guided photo tours", "charging stations"]
+}

@@ -1,0 +1,15 @@
+{
+    "with children": ["Child seats", "Child locks"],
+    "road trip": ["Roadside emergency support"],
+    "elderly travelers": ["Advanced Driving Assistance Systems"],
+    "business travelers": ["WiFi"],
+    "with pets": ["Pet seat belts", "Pet-friendly"],
+    "nightlife enthusiast": ["Late pick up services"],
+    "disabled traveler": ["Wheelchair space", "Hand controls", "Accessible cars"],
+    "fast-paced budget travel":[],
+    "couples trip":[],
+    "solo women": ["Women-only cars", "Airport safe waiting areas"],
+    "luxury travelers": ["First-class car", "Chauffeured cars", "Guide/driver package"],
+    "foodie": [],
+    "photography": ["Remote shoots"]
+}

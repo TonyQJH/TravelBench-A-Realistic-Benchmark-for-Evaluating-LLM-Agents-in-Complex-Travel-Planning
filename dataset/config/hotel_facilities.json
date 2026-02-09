@@ -1,0 +1,15 @@
+{
+    "with children": ["Child-friendly rooms", "Baby cots", "Stroller storage", "Diaper changing tables", "Nursing rooms"],
+    "road trip": ["Parking", "24-hour front desk", "EV charging for electric vehicles"],
+    "elderly travelers": ["Elevators", "Bathroom grab bars", "Medical contacts", "Breakfast with dietary options"],
+    "business travelers": ["High speed WiFi", "Business center", "Meeting rooms", "Laundry service", "Print machine"],
+    "with pets": ["Pet-friendly", "Pet rest area", "Pet beds", "Durable floors"],
+    "nightlife enthusiast": ["24-hour front desk", "Late room service", "On-site bars", "Rooftop lounges/nightclubs"],
+    "disabled traveler": ["Accessible entrances", "Ramps/lifts", "Accessible rooms/bathrooms", "Braille/raised signage"],
+    "fast-paced budget travel": ["Free Wi-Fi", "Communal kitchens", "Laundry", "Lockers"],
+    "couples trip": ["Bathtubs/jacuzzis", "Scenic rooms/villas", "Spa"],
+    "solo women": ["Women-only floors/rooms", "Privacy-conscious check-in", "24-hour security", "Surveillance cameras", "Double locks on doors"],
+    "luxury travelers": ["Spa", "Gym", "Premium bedding", "Bar"],
+    "foodie": [],  
+    "photography": ["Scenic rooms", "Sunrise calls", "Photography services/packages"]
+}
